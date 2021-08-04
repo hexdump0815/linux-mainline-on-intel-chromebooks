@@ -6,7 +6,7 @@ coming soon ...
 
 ## supported devices and linux distributions
 
-currently xubuntu 20.04 (focal) is supported and debian 11 (bullseye) is planned to be supported a bit after it is officially released.
+currently xubuntu 20.04 (focal) and debian 11 (bullseye) are supported.
 
 the following chromebook types are more or less supported:
 
