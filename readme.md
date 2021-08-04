@@ -38,6 +38,10 @@ coming soon ...
 
 coming soon ...
 
+## storing chromebooks and avoiding battery drain
+
+this is basically the same as for arm chromebooks: https://github.com/hexdump0815/linux-mainline-on-arm-chromebooks#storing-chromebooks-and-avoiding-battery-drain
+
 ## other related projects
 
 for intel chromebooks:
