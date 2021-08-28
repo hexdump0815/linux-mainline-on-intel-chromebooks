@@ -27,9 +27,9 @@ the following chromebook types are more or less supported:
   - in theory it should work for nearly all intel chromebooks with a working uefi firmware installed
   - as there are no real chromebook dependency the chance is high that the images should simply work on most intel systems with uefi booting with secure boot disabled
   - https://github.com/hexdump0815/imagebuilder/blob/main/systems/chromebook_x86_uefi/readme.md
-- chromebook x86 native chromeos boot:
-  - intel chromebooks with gemini lake socs (i.e. without any legacy or uefi firmware available) using a 4.14 kernel might be working fully or partially as well, maybe others are working too or could be made working this way
-  - https://github.com/hexdump0815/imagebuilder/blob/main/systems/chromebook_x86_native/readme.md
+- chromebook octopus:
+  - intel chromebooks with gemini lake socs (i.e. without any legacy or uefi firmware available) using a 4.14 kernel should be working fully or partially as well, maybe others are working too or could be made working this way
+  - https://github.com/hexdump0815/imagebuilder/blob/main/systems/chromebook_octopus/readme.md
 
 ## enabling developer mode
 
