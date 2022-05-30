@@ -57,6 +57,9 @@ for intel chromebooks:
 
 - https://mrchromebox.tech/
 - https://galliumos.org/
+- https://github.com/cb-linux/breath
+- https://github.com/EMLommers/pixelbook-fedora
+- https://github.com/yusefnapora/pixelbook-linux
 
 for arm chromebooks:
 
