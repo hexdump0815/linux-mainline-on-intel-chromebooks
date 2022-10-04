@@ -55,9 +55,9 @@ this is basically the same as for arm chromebooks: https://github.com/hexdump081
 
 for intel chromebooks:
 
-- https://mrchromebox.tech/
-- https://galliumos.org/
-- https://github.com/cb-linux/breath
+- https://mrchromebox.tech/ - uefi and legacy bios for x86 chromebooks and a lot of info around it
+- https://galliumos.org/ - not that much happening there anymore it seems
+- https://github.com/cb-linux/breath - seems to be on hold meanwhile
 - https://github.com/EMLommers/pixelbook-fedora
 - https://github.com/yusefnapora/pixelbook-linux
 
