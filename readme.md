@@ -60,6 +60,7 @@ for intel chromebooks:
 - https://github.com/cb-linux/breath - seems to be on hold meanwhile
 - https://github.com/EMLommers/pixelbook-fedora
 - https://github.com/yusefnapora/pixelbook-linux
+- https://github.com/ericwoud/crlin
 
 for arm chromebooks:
 
