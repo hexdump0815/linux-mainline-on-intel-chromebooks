@@ -39,9 +39,15 @@ this is basically the same as for arm chromebooks: https://github.com/hexdump081
 
 this is basically the same as for arm chromebooks: https://github.com/hexdump0815/linux-mainline-on-arm-chromebooks#setting-gbb-flags-enabling-ccd-and-the-magic-suzyqable
 
+## some advanced hints for cr50/suzyqable enabled chromebooks
+
+this is basically the same as for arm chromebooks: https://github.com/hexdump0815/linux-mainline-on-arm-chromebooks#some-advanced-hints-for-cr50suzyqable-enabled-chromebooks
+
 ## different boot options: mbr, uefi, native
 
 there are three ways to boot intel chromebooks. the first is booting using a traditional mbr based method like it is used also by many older regular intel systems - for this the legacy rw firmware from mrchromebox has to be installed. the second way is based on the more modern uefi method like it is used also by many newer regular intel systems - for this the uefi firmware from mrchromebox has to be installed. the third option is required for chromebooks for which there is neither a legacy rw nor an uefi firmware availabe (yet) and for which thus the tho first options are not possible. this third approach is simaply packaging the linux kernel the same way as it is done for chromeos and boots it in a very similar way as chromeos itself is being booted - for this approach no extra firmware is required, but a special kernel packaged in this special way is required.
+
+please also have a look at https://github.com/hexdump0815/imagebuilder/blob/main/systems/chromebook_x86_uefi/doc/apollo-and-gemini-lake-chromebooks.md for apollo lake, gemini lake and maybe other chromebooks for a way to get uefi booting working by only adjusting the read-write (rw) part of the flash which does not require the write protection of the flash to be removed and it is based on the regular chromebook firmware. sadly it is not working for all intel chromebooks, but it might be worth a try as the risk to try it is close to zero.
 
 ## using and adjusting the bootable images
 
