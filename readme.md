@@ -57,6 +57,10 @@ due to the wide variation of hardware some adjustments might be required to get 
 
 this is basically the same as for arm chromebooks: https://github.com/hexdump0815/linux-mainline-on-arm-chromebooks#storing-chromebooks-and-avoiding-battery-drain
 
+## some useful links about chromebooks, chromeos versions, recovery images etc.
+
+this is basically the same as for arm chromebooks: https://github.com/hexdump0815/linux-mainline-on-arm-chromebooks#some-useful-links-about-chromebooks-chromeos-versions-recovery-images-etc
+
 ## other related projects
 
 for intel chromebooks:
